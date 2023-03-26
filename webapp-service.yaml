@@ -4,7 +4,7 @@ metadata:
   name: fleetman-webapp
 spec:
   selector:
-    app: webapp
+    mylablename: webapp
   ports:
     - name: http
       port: 80
